@@ -1,0 +1,108 @@
+Release 14.5 - xst P.58f (nt64)
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/Jumana/Desktop/loc2/phase2/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.06 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/Jumana/Desktop/loc2/phase2/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.06 secs
+ 
+--> Reading design: MIPSCPU.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Parsing VHDL file "C:\Users\Jumana\Desktop\loc2\phase2\reg.vhd" into library work
+Parsing entity <reg>.
+Parsing architecture <Behavioral> of entity <reg>.
+Parsing VHDL file "C:\Users\Jumana\Desktop\loc2\phase2\MyPackage.vhd" into library work
+Parsing package <MyPackage>.
+Parsing package body <mypackage>.
+Parsing VHDL file "C:\Users\Jumana\Desktop\loc2\phase2\mux32x1.vhd" into library work
+Parsing entity <mux32x1>.
+Parsing architecture <Behavioral> of entity <mux32x1>.
+Parsing VHDL file "C:\Users\Jumana\Desktop\loc2\phase2\dec.vhd" into library work
+Parsing entity <dec5x32>.
+Parsing architecture <Behavioral> of entity <dec5x32>.
+Parsing VHDL file "C:\Users\Jumana\Desktop\loc2\phase2\SLA2.vhd" into library work
+Parsing entity <SLA2>.
+Parsing architecture <Behavioral> of entity <sla2>.
+Parsing VHDL file "C:\Users\Jumana\Desktop\loc2\phase2\signExtend.vhd" into library work
+Parsing entity <signExtend>.
+Parsing architecture <Behavioral> of entity <signextend>.
+Parsing VHDL file "C:\Users\Jumana\Desktop\loc2\phase2\RegisterFile.vhd" into library work
+Parsing entity <RegisterFile>.
+Parsing architecture <Behavioral> of entity <registerfile>.
+Parsing VHDL file "C:\Users\Jumana\Desktop\loc2\phase2\plus4.vhd" into library work
+Parsing entity <plus4>.
+Parsing architecture <Behavioral> of entity <plus4>.
+Parsing VHDL file "C:\Users\Jumana\Desktop\loc2\phase2\PC.vhd" into library work
+Parsing entity <PC>.
+Parsing architecture <Behavioral> of entity <pc>.
+Parsing VHDL file "C:\Users\Jumana\Desktop\loc2\phase2\muxx2x1.vhd" into library work
+Parsing entity <muxx2x1>.
+Parsing architecture <Behavioral> of entity <muxx2x1>.
+Parsing VHDL file "C:\Users\Jumana\Desktop\loc2\phase2\mux5bitx1.vhd" into library work
+Parsing entity <mux5bitx1>.
+Parsing architecture <Behavioral> of entity <mux5bitx1>.
+Parsing VHDL file "C:\Users\Jumana\Desktop\loc2\phase2\JA.vhd" into library work
+Parsing entity <JA>.
+Parsing architecture <Behavioral> of entity <ja>.
+Parsing VHDL file "C:\Users\Jumana\Desktop\loc2\phase2\INSTRMEMORY.vhd" into library work
+Parsing entity <instrmemory>.
+Parsing architecture <BEHAVIORAL> of entity <instrmemory>.
+Parsing VHDL file "C:\Users\Jumana\Desktop\loc2\phase2\datamem.vhd" into library work
+Parsing entity <datamem>.
+Parsing architecture <BEHAVIORAL> of entity <datamem>.
+Parsing VHDL file "C:\Users\Jumana\Desktop\loc2\phase2\ControlUnit.vhd" into library work
+Parsing entity <ControlUnit>.
+Parsing architecture <Behavioral> of entity <controlunit>.
+Parsing VHDL file "C:\Users\Jumana\Desktop\loc2\phase2\ALUControlUnit.vhd" into library work
+Parsing entity <ALUControlUnit>.
+Parsing architecture <Behavioral> of entity <alucontrolunit>.
+Parsing VHDL file "C:\Users\Jumana\Desktop\loc2\phase2\ALU.vhd" into library work
+Parsing entity <ALU>.
+Parsing architecture <Behavioral> of entity <alu>.
+Parsing VHDL file "C:\Users\Jumana\Desktop\loc2\phase2\MIPSCPU.vhd" into library work
+Parsing entity <MIPSCPU>.
+Parsing architecture <Behavioral> of entity <mipscpu>.
+
+
+Total REAL time to Xst completion: 4.00 secs
+Total CPU time to Xst completion: 3.37 secs
+ 
+--> 
+
+Total memory usage is 4473684 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

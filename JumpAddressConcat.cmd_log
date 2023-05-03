@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Jumana/Desktop/loc2/phase2/JumpAddressConcat.xst" -ofn "C:/Users/Jumana/Desktop/loc2/phase2/JumpAddressConcat.syr" 
